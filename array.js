@@ -44,3 +44,28 @@
 //     }
 // }
 //         console.log(largest);
+
+//(3) Check if a given value exists in an array or not.
+// let arr=[2,67,97,100,80,99]
+// function check(value){
+//     for(let i=0;i<arr.length;i++){
+//         let found=arr[i]==value;
+//         if(found){
+//             console.log("true");
+//         }
+//     }
+// }check(98);
+
+//(4)Reverse an array using .reverse()
+// let arr=[2,67,97,100,80,99]
+// let result=arr.reverse();
+// console.log(result);
+
+//(5)Reverse an array without using .reverse().//not finished
+// let arr=[2,67,97,100,80,99]
+// for(let i=arr[6];i=arr[0];i--)
+// {
+//   console.log(arr[i]);
+// }
+
+

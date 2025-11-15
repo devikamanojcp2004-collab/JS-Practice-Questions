@@ -45,6 +45,19 @@
 // }
 // console.log(getFullName("Devika","Manoj"));
 
+//(6)Create an array of fruits and print each fruit using a `for...of` loop.arr
+// let arr=["apple","orange","mango","pineapple"];
+// for(let value of arr){
+//     console.log(value);
+// }
 
-
+//(7)Write a function that checks if a number is even or odd.
+// function oddEven(value){
+//     if(value%2==0){
+//     console.log("even");
+//     }else{
+//         console.log("odd");
+        
+//     }
+// }oddEven(9)
 
